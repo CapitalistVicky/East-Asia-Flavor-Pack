@@ -38,8 +38,8 @@
  jpf_joseon.6.f:0 "'포청에서 한 달에 걸쳐 힐문하였는데, 그 말하는 것이 교활하여 양박의 강한 것을 믿고 협박하여 말하기를, "우리 나라에서 결코 그 교를 금할 수 없을 것이다. 은전을 흩어서 경외에서 흔하게 쓰는 재화는 다 양한이 책중에서 실어 보낸 것이다." 하였다.'"
  jpf_joseon.6.a:0 "사학은 무부무군이다. 당장 전국에서 사학을 배우는 자들을 잡아들이고 벌을 내려라."
  jpf_joseon.6.a.tt:0 "The Catholic persecution begins."
- jpf_joseon.6.b:0 "언제까지나 유학 만을 품고 갈 수는 없다. 그를 놓아주어라."
- jpf_joseon.6.b.tt:0 "반 천주교 $concept_interest_group$이 분노합니다."
+ jpf_joseon.6.b:0 "We cannot always live under Confusionism. Let him free."
+ jpf_joseon.6.b.tt:0 "Anti-Catholic $concept_interest_group$ is raging."
 
  jpf_joseon.7.t:0 "Execution of Evil-Teaching Criminal"
  jpf_joseon.7.d:0 "오늘 요술로 백성을 미혹하는 사학 죄인을 처형하였습니다."
@@ -49,8 +49,8 @@
 
  #삼정의 문란 해결책
  je_korean_restoration_history:0 "The Land of the Morning Calm"
- je_korean_restoration_history_reason:0 "수백년의 평화 속에서 조선은 온갖 병폐로 신음하고 있습니다."
- je_korean_restoration_history_goal:0 "타파 방법 고뇌"
+ je_korean_restoration_history_reason:0 "Under hundreds years of peace Joseon is suffering from every struggles other than war."
+ je_korean_restoration_history_goal:0 "Considering ways to crackdown"
  je_korean_restoration_first:0 "삼정의 문란 해결"
  je_korean_restoration_first_reason:0 "삼정의 문란은 백성들의 삶을 피폐하게 했습니다. 지금이라도 이를 바로잡아야 합니다."
  je_korean_restoration_first_goal:0 "개혁 지속"
@@ -842,7 +842,7 @@ je_korean_restoration_third:0 "Period of Reform"
  japan_invasion.5.d:0 "일본 측은 우리의 요구에 고개숙였으며, 통상 수교 조약을 맺었습니다."
  japan_invasion.5.f:0 "대한제국과 대일본국은 본디 우의를 두터이 하여온 지가 200여년이 지났으나 지금 두 나라의 정의가 미흡한 것을 보고 다시 옛날의 우호 관계를 닦아 친목을 공고히 한다.\n \n 제1관 일본국은 자주국으로서 대한제국과 평등한 권리를 보유한다."
  japan_invasion.5.a:0 "다음 단계를 준비하자" 
- japan_invasion.6.t:0 "시즈오카 조약"
+ japan_invasion.6.t:0 "Treaty of Sizuoka"
  japan_invasion.6.d:0 "일단 조약을 맺음으로써, 이즈반도 사태는 진정 된 듯 합니다."
  japan_invasion.6.f:0 "감히 자신들을 황제국이라고 참칭하는 조선과의 조약이 일단락되었습니다. 비록 명시적으로는 평등한 조약이나 우리 일본국이 불리한 조약임은 틀림이 없습니다..."
  japan_invasion.6.a:0 "이런"  
@@ -958,7 +958,7 @@ je_korean_restoration_third:0 "Period of Reform"
  donghak_je_events.6.e:0 "농민공화국을 세운다."
  donghak_je_events.6.g:0 "이대로 유지한다."
  find_king:0 "새로운 왕을 새우자"
- enacted_serfdom_banned:0 "농민 개혁의 지지"
+ enacted_serfdom_banned:0 "Support Agarian Reform"
  delayed_serfdom_banned:0 "지연된 농민 개혁"
  donghak_je_events.7.t:0 "새로운 왕의 즉위" #철종
  donghak_je_events.7.d:0 "가까운 친척에서 왕을 데려왔습니다."
@@ -967,7 +967,7 @@ je_korean_restoration_third:0 "Period of Reform"
  donghak_je_events.8.t:0 "새로운 왕의 즉위" #고종
  donghak_je_events.8.d:0 "먼 친척에서 왕을 데려왔습니다."
  donghak_je_events.8.f:0 "새로 즉위할 왕은 영조의 현손 흥선군 이하응의 둘째 아들로 아명은 "명복"으로 불리었다합니다. "
- donghak_je_events.8.a:0 "새로운 조선의 시작이다."
+ donghak_je_events.8.a:0 "The beginning of New Joseon this is."
 
 # 외교방책 디시전
 
